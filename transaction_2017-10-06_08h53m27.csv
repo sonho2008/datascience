@@ -1,0 +1,1079 @@
+Id,Source,Address,Area,Sub region,Region,Date sold,Size lot,Price,Price psf,Tenure,Property building category,Property building type,Title,Bedrooms,Bathrooms,Storeys,Parameter,Created at,Updated at,Latitude,Longitude,Postcode,Has failed enposition,Glob,County,Section,Lot number,Strata number,Lot price psf,Built up price psf,Size built up,Enpositioned by,Valuation price,Transaction price,Share,Buyer name,Seller name,Recordindex,State,District,City,Id [Property info]
+98319,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"June 28, 2016 00:00",5091.0, - ,1649.97053624042, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,8400000.0, - , - , - , - , - , - , - , - ,""
+98321,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"June 24, 2016 00:00",3175.0, - ,1565.35433070866, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4970000.0, - , - , - , - , - , - , - , - ,""
+98322,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"June 10, 2016 00:00",4295.0, - ,1378.28870779977, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,5919750.0, - , - , - , - , - , - , - , - ,""
+98324,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 03, 2016 00:00",3283.0, - ,1507.76728601889, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4950000.0, - , - , - , - , - , - , - , - ,""
+98325,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 06, 2016 00:00",3068.0, - ,1238.59191655802, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3800000.0, - , - , - , - , - , - , - , - ,""
+98327,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 29, 2015 00:00",3218.0, - ,1249.22311995028, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4020000.0, - , - , - , - , - , - , - , - ,""
+98328,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"November 11, 2015 00:00",3218.0, - ,1305.45680546924, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4200960.0, - , - , - , - , - , - , - , - ,""
+98330,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 09, 2015 00:00",3584.0, - ,1060.26785714286, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3800000.0, - , - , - , - , - , - , - , - ,""
+98331,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"July 24, 2015 00:00",4144.0, - ,2045.3667953668, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,8476000.0, - , - , - , - , - , - , - , - ,""
+98333,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"July 13, 2015 00:00",3175.0, - ,1102.36220472441, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3500000.0, - , - , - , - , - , - , - , - ,""
+98334,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 28, 2015 00:00",6340.0, - ,1380.1261829653, - ,LANDED,TERRACE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,8750000.0, - , - , - , - , - , - , - , - ,""
+98336,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"April 01, 2015 00:00",3175.0, - ,1118.11023622047, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3550000.0, - , - , - , - , - , - , - , - ,""
+98337,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"February 26, 2015 00:00",6340.0, - ,1340.69400630915, - ,LANDED,TERRACE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,8500000.0, - , - , - , - , - , - , - , - ,""
+98338,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 16, 2015 00:00",3175.0, - ,1071.47622047244, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3401937.0, - , - , - , - , - , - , - , - ,""
+98340,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 31, 2014 00:00",4295.0, - ,1746.21653084983, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,7500000.0, - , - , - , - , - , - , - , - ,""
+98341,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 17, 2014 00:00",3218.0, - ,1298.94344313238, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4180000.0, - , - , - , - , - , - , - , - ,""
+98343,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 03, 2014 00:00",3218.0, - ,1305.15848353014, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4200000.0, - , - , - , - , - , - , - , - ,""
+98344,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 21, 2014 00:00",6340.0, - ,1206.62460567823, - ,LANDED,TOWNHOUSE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,7650000.0, - , - , - , - , - , - , - , - ,""
+98346,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 20, 2014 00:00",3218.0, - ,1121.81479179615, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3610000.0, - , - , - , - , - , - , - , - ,""
+98348,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 14, 2014 00:00",6458.0, - ,1548.46701765252, - ,LANDED,TOWNHOUSE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,10000000.0, - , - , - , - , - , - , - , - ,""
+98349,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 14, 2014 00:00",3218.0, - ,1274.08328154133, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4100000.0, - , - , - , - , - , - , - , - ,""
+98351,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 08, 2014 00:00",3218.0, - ,1169.29770043505, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3762800.0, - , - , - , - , - , - , - , - ,""
+98352,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 04, 2014 00:00",3175.0, - ,1029.29133858268, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3268000.0, - , - , - , - , - , - , - , - ,""
+98353,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"July 03, 2014 00:00",4295.0, - ,1264.54016298021, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,5431200.0, - , - , - , - , - , - , - , - ,""
+98355,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"July 02, 2014 00:00",3175.0, - ,1212.59842519685, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3850000.0, - , - , - , - , - , - , - , - ,""
+98356,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"June 03, 2014 00:00",3595.0, - ,1112.65646731572, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4000000.0, - , - , - , - , - , - , - , - ,""
+98358,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 02, 2014 00:00",3218.0, - ,1114.04599129894, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3585000.0, - , - , - , - , - , - , - , - ,""
+98359,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 27, 2014 00:00",3218.0, - ,994.406463642014, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3200000.0, - , - , - , - , - , - , - , - ,""
+98361,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 24, 2014 00:00",3175.0, - ,1530.70866141732, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4860000.0, - , - , - , - , - , - , - , - ,""
+98362,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 27, 2013 00:00",3175.0, - ,1007.87401574803, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3200000.0, - , - , - , - , - , - , - , - ,""
+98364,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 17, 2013 00:00",6017.0, - ,1196.609606116, - ,LANDED,TOWNHOUSE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,7200000.0, - , - , - , - , - , - , - , - ,""
+98365,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 06, 2013 00:00",4295.0, - ,1233.99301513388, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,5300000.0, - , - , - , - , - , - , - , - ,""
+98367,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 03, 2013 00:00",4295.0, - ,1573.09662398137, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6756450.0, - , - , - , - , - , - , - , - ,""
+98368,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"November 26, 2013 00:00",3218.0, - ,963.331261653201, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3100000.0, - , - , - , - , - , - , - , - ,""
+98369,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 29, 2013 00:00",3175.0, - ,1030.35905511811, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3271390.0, - , - , - , - , - , - , - , - ,""
+98371,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 22, 2013 00:00",3595.0, - ,834.492350486787, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3000000.0, - , - , - , - , - , - , - , - ,""
+98372,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 11, 2013 00:00",3175.0, - ,1050.76220472441, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3336170.0, - , - , - , - , - , - , - , - ,""
+98374,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 08, 2013 00:00",6275.0, - ,812.749003984064, - ,LANDED,TOWNHOUSE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,5100000.0, - , - , - , - , - , - , - , - ,""
+98375,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"September 17, 2013 00:00",3175.0, - ,1039.37007874016, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3300000.0, - , - , - , - , - , - , - , - ,""
+98377,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 09, 2013 00:00",3175.0, - ,1173.1811023622, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3724850.0, - , - , - , - , - , - , - , - ,""
+98378,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"June 11, 2013 00:00",3595.0, - ,1157.94269819193, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4162804.0, - , - , - , - , - , - , - , - ,""
+98380,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 31, 2013 00:00",3175.0, - ,1305.80157480315, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4145920.0, - , - , - , - , - , - , - , - ,""
+98381,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 29, 2013 00:00",3175.0, - ,1102.36220472441, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3500000.0, - , - , - , - , - , - , - , - ,""
+98383,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 13, 2013 00:00",4252.0, - ,1546.91909689558, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6577500.0, - , - , - , - , - , - , - , - ,""
+98384,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 03, 2013 00:00",3595.0, - ,997.173852573018, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3584840.0, - , - , - , - , - , - , - , - ,""
+98386,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"April 17, 2013 00:00",5091.0, - ,1178.55038302887, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6000000.0, - , - , - , - , - , - , - , - ,""
+98387,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"April 08, 2013 00:00",5221.0, - ,1040.0, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,5429840.0, - , - , - , - , - , - , - , - ,""
+98388,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"March 22, 2013 00:00",5091.0, - ,1471.55490080534, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,7491686.0, - , - , - , - , - , - , - , - ,""
+98390,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"March 18, 2013 00:00",3595.0, - ,1015.90848400556, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3652191.0, - , - , - , - , - , - , - , - ,""
+98391,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"March 14, 2013 00:00",6039.0, - ,725.28564331843, - ,LANDED,TOWNHOUSE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4380000.0, - , - , - , - , - , - , - , - ,""
+98393,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 29, 2013 00:00",6039.0, - ,1227.19225037258, - ,LANDED,TOWNHOUSE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,7411014.0, - , - , - , - , - , - , - , - ,""
+98394,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 12, 2012 00:00",6222.0, - ,1205.40019286403, - ,LANDED,TERRACE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,7500000.0, - , - , - , - , - , - , - , - ,""
+98396,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"December 10, 2012 00:00",5113.0, - ,1225.34715431254, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6265200.0, - , - , - , - , - , - , - , - ,""
+98397,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"November 07, 2012 00:00",4392.0, - ,1366.12021857923, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6000000.0, - , - , - , - , - , - , - , - ,""
+98399,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 30, 2012 00:00",6340.0, - ,1150.94952681388, - ,LANDED,TERRACE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,7297020.0, - , - , - , - , - , - , - , - ,""
+98400,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 20, 2012 00:00",3175.0, - ,1394.91338582677, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4428850.0, - , - , - , - , - , - , - , - ,""
+98402,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"October 08, 2012 00:00",4295.0, - ,1225.14551804424, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,5262000.0, - , - , - , - , - , - , - , - ,""
+98403,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"September 21, 2012 00:00",5113.0, - ,1174.29102288285, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6004150.0, - , - , - , - , - , - , - , - ,""
+98404,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"September 19, 2012 00:00",5091.0, - ,1099.98035749362, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,5600000.0, - , - , - , - , - , - , - , - ,""
+98406,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"August 09, 2012 00:00",5091.0, - ,1212.46611667649, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6172665.0, - , - , - , - , - , - , - , - ,""
+98407,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"July 23, 2012 00:00",3218.0, - ,933.197638284649, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3003030.0, - , - , - , - , - , - , - , - ,""
+98409,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"June 13, 2012 00:00",6275.0, - ,965.56828685259, - ,LANDED,TOWNHOUSE, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6058941.0, - , - , - , - , - , - , - , - ,""
+98410,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 31, 2012 00:00",3175.0, - ,1102.36220472441, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3500000.0, - , - , - , - , - , - , - , - ,""
+98412,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"May 14, 2012 00:00",3218.0, - ,1427.84338098198, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4594800.0, - , - , - , - , - , - , - , - ,""
+98413,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"March 15, 2012 00:00",4295.0, - ,1030.2677532014, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,4425000.0, - , - , - , - , - , - , - , - ,""
+98415,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"February 13, 2012 00:00",3175.0, - ,913.385826771654, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,2900000.0, - , - , - , - , - , - , - , - ,""
+98417,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"February 08, 2012 00:00",3175.0, - ,834.645669291339, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,2650000.0, - , - , - , - , - , - , - , - ,""
+98418,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 12, 2012 00:00",3218.0, - ,1121.87694220012, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,3610200.0, - , - , - , - , - , - , - , - ,""
+98419,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 12, 2012 00:00",5113.0, - ,1304.03285742226, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6667520.0, - , - , - , - , - , - , - , - ,""
+98421,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 12, 2012 00:00",5210.0, - ,1279.75431861804, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,6667520.0, - , - , - , - , - , - , - , - ,""
+98422,edgeproperty,Jalan Menerung,One Menerung,Bangsar,Kuala Lumpur,"January 05, 2012 00:00",3218.0, - ,918.178993163456, - ,HIGHRISE,CONDO, - , - , - , - , - ,"November 17, 2016 15:02","November 17, 2016 15:02", - , - , - ,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+", - , - , - , - , - , - , - , - ,2954700.0, - , - , - , - , - , - , - , - ,""
+448219,landoffice,"A-03-01, JALAN MENERUNG",ONE MENERUNG, - , - ,"August 13, 2009 00:00",3218.4094205744, - ,917.7825484592,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 06:32","June 24, 2017 06:32",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '458'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/4/21)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 13/08/2009
+  Luas Lot: '299.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '299'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-03-01, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BANDAR RAYA DEVELOPMENT S BERHAD
+  Nama Penerima Pindahmilik: LOO BOON SENG
+  Balasan (RM): '2,953,800'
+  report_date: '2015-03-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/03TransactionData-KUL-MAR2015.txt""
+",KUALA LUMPUR, - ,58578(M1B/4/21), - ,917.7825484592,917.7825484592, - ,unknown,2953800.0,2953800.0,1.0,LOO BOON SENG,BANDAR RAYA DEVELOPMENT S BERHAD,151030458,Kuala Lumpur,KUALA LUMPUR, - ,431
+448400,landoffice,"A-16-03, JALAN MENERUNG",ONE MENERUNG, - , - ,"January 16, 2015 00:00",3175.353776152, - ,1071.3568439365,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 06:33","June 24, 2017 06:33",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '639'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/17/75)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 16/01/2015
+  Luas Lot: '295.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '295'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-16-03, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: GANGADHAR PURSHOTTAMDAS SHARMA + 1
+  Nama Penerima Pindahmilik: TAN KOK KIONG
+  Balasan (RM): '3,401,937'
+  report_date: '2015-03-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/03TransactionData-KUL-MAR2015.txt""
+",KUALA LUMPUR, - ,58578(M1B/17/75), - ,1071.3568439365,1071.3568439365, - ,unknown,3401937.0,3401937.0,1.0,TAN KOK KIONG,GANGADHAR PURSHOTTAMDAS SHARMA + 1,151030639,Kuala Lumpur,KUALA LUMPUR, - ,431
+463186,landoffice,"E-6, JALAN MENERUNG",ONE MENERUNG, - , - ,"May 28, 2015 00:00",6339.9436411984, - ,1380.1384515693,FREEHOLD,LANDED,TERRACE,RESIDENTIAL,4, - ,4, - ,"June 24, 2017 08:08","June 24, 2017 08:08",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '435'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1F/B1/223)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 28/05/2015
+  Luas Lot: '589.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: RUMAH TERES MEWAH - TENGAH
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '1'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '589'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: E-6, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENTS SDN BHD
+  Nama Penerima Pindahmilik: MAH KING THIAN @ MAH KING THIAM + 1
+  Balasan (RM): '8,750,000'
+  report_date: '2015-08-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/08TransactionData-KUL-AUG2015.txt""
+",KUALA LUMPUR, - ,58578(M1F/B1/223), - ,1380.1384515693,1380.1384515693, - ,unknown,8750000.0,8750000.0,1.0,MAH KING THIAN @ MAH KING THIAM + 1,BRDB DEVELOPMENTS SDN BHD,151080435,Kuala Lumpur,KUALA LUMPUR, - ,431
+463212,landoffice,"C-15-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"July 24, 2015 00:00",4144.105775656, - ,2045.3145886843,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 08:09","June 24, 2017 08:09",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '461'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1D/16/165)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 24/07/2015
+  Luas Lot: '385.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '385'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: C-15-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: HARRY LEE VUI KHIUN
+  Nama Penerima Pindahmilik: GOLDEN INITIATIVE SDN BHD
+  Balasan (RM): '8,476,000'
+  report_date: '2015-08-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/08TransactionData-KUL-AUG2015.txt""
+",KUALA LUMPUR, - ,58578(M1D/16/165), - ,2045.3145886843,2045.3145886843, - ,unknown,8476000.0,8476000.0,1.0,GOLDEN INITIATIVE SDN BHD,HARRY LEE VUI KHIUN,151080461,Kuala Lumpur,KUALA LUMPUR, - ,431
+463331,landoffice,"C-15-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"July 30, 2009 00:00",4144.105775656, - ,1073.8142897174,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 08:10","June 24, 2017 08:10",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '580'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1D/16/165)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 30/07/2009
+  Luas Lot: '385.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '385'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: C-15-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENT SDN BHD
+  Nama Penerima Pindahmilik: HARRY LEE VUI KHIUN
+  Balasan (RM): '4,450,000'
+  report_date: '2015-08-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/08TransactionData-KUL-AUG2015.txt""
+",KUALA LUMPUR, - ,58578(M1D/16/165), - ,1073.8142897174,1073.8142897174, - ,unknown,4450000.0,4450000.0,1.0,HARRY LEE VUI KHIUN,BRDB DEVELOPMENT SDN BHD,151080580,Kuala Lumpur,KUALA LUMPUR, - ,431
+467542,landoffice,"A-15-3, JALAN MENERUNG",ONE MENERUNG, - , - ,"April 01, 2015 00:00",3175.353776152, - ,1117.9856640421,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 08:43","June 24, 2017 08:43",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '556'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/16/71)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 01/04/2015
+  Luas Lot: '295.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '295'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-15-3, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: GANGADHAR PURSHOTTAMDAS SHARMA + 1
+  Nama Penerima Pindahmilik: VINOD AGARWAL SDN BHD
+  Balasan (RM): '3,550,000'
+  report_date: '2015-06-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/06TransactionData-KUL-JUN2015.txt""
+",KUALA LUMPUR, - ,58578(M1B/16/71), - ,1117.9856640421,1117.9856640421, - ,unknown,3550000.0,3550000.0,1.0,VINOD AGARWAL SDN BHD,GANGADHAR PURSHOTTAMDAS SHARMA + 1,151060556,Kuala Lumpur,KUALA LUMPUR, - ,431
+473297,landoffice,"A-19-3, JALAN MENERUNG",ONE MENERUNG, - , - ,"July 13, 2015 00:00",3175.353776152, - ,1102.2393870838,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 09:31","June 24, 2017 09:31",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '467'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/20/87)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 13/07/2015
+  Luas Lot: '295.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '295'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-19-3, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENTS SDN BHD
+  Nama Penerima Pindahmilik: OOI LAY HOCK + 1
+  Balasan (RM): '3,500,000'
+  report_date: '2015-09-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/09TransactionData-KUL-SEP2015.txt""
+",KUALA LUMPUR, - ,58578(M1B/20/87), - ,1102.2393870838,1102.2393870838, - ,unknown,3500000.0,3500000.0,1.0,OOI LAY HOCK + 1,BRDB DEVELOPMENTS SDN BHD,151090467,Kuala Lumpur,KUALA LUMPUR, - ,431
+474388,landoffice,"E-6, JALAN MENERUNG",ONE MENERUNG, - , - ,"July 26, 2016 00:00",6339.9436411984, - ,1529.9820548825,FREEHOLD,LANDED,TERRACE,RESIDENTIAL,4, - ,4, - ,"June 24, 2017 09:40","June 24, 2017 09:40",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '365'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1F/B1/221)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 26/07/2016
+  Luas Lot: '589.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: RUMAH TERES MEWAH - TENGAH
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '1'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '589'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: E-6, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENT SDN BHD
+  Nama Penerima Pindahmilik: OOI CHI KHOON
+  Balasan (RM): '9,700,000'
+  report_date: '2016-09-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/21TransactionData-KUL-SEP2016.txt""
+",KUALA LUMPUR, - ,58578(M1F/B1/221), - ,1529.9820548825,1529.9820548825, - ,unknown,9700000.0,9700000.0,1.0,OOI CHI KHOON,BRDB DEVELOPMENT SDN BHD,161090365,Kuala Lumpur,KUALA LUMPUR, - ,431
+481830,landoffice,"D-13A-2, JALAN MENERUNG",ONE MENERUNG, - , - ,"November 09, 2016 00:00",5091.3299529488, - ,1777.5316240815,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 10:36","June 24, 2017 10:36",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '361'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1E/15/204)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: '09/11/2016'
+  Luas Lot: '473.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '473'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: D-13A-2, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: LIM SIANG WEE +1
+  Nama Penerima Pindahmilik: KRISTINE GOH MEI-YIN
+  Balasan (RM): '9,050,000'
+  report_date: '2017-01-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/25TransactionData-KUL-JAN2017.txt""
+",KUALA LUMPUR, - ,58578(M1E/15/204), - ,1777.5316240815,1777.5316240815, - ,unknown,9050000.0,9050000.0,1.0,KRISTINE GOH MEI-YIN,LIM SIANG WEE +1,171010361,Kuala Lumpur,KUALA LUMPUR, - ,431
+488645,landoffice,"A-01-6, JALAN MENERUNG",ONE MENERUNG, - , - ,"October 09, 2015 00:00",3584.3823981648, - ,1060.1547429609,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 11:40","June 24, 2017 11:40",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '534'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1A/2/1)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: '09/10/2015'
+  Luas Lot: '333.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '333'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-01-6, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: NG PUAY YEE ANNIE
+  Nama Penerima Pindahmilik: CHRISTOPHER MAH SIEW HOUK
+  Balasan (RM): '3,800,000'
+  report_date: '2015-11-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/11TransactionData-KUL-NOV2015.txt""
+",KUALA LUMPUR, - ,58578(M1A/2/1), - ,1060.1547429609,1060.1547429609, - ,unknown,3800000.0,3800000.0,1.0,CHRISTOPHER MAH SIEW HOUK,NG PUAY YEE ANNIE,151110534,Kuala Lumpur,KUALA LUMPUR, - ,431
+490870,landoffice,"C-13-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"December 31, 2014 00:00",4294.8005311344, - ,1746.2976325979,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 11:59","June 24, 2017 11:59",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '426'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1D/14/161)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 31/12/2014
+  Luas Lot: '399.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '399'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: C-13-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: YEE MEAN FONG + 1
+  Nama Penerima Pindahmilik: LEE CHOU SARN @ LEE CHOU SUN
+  Balasan (RM): '7,500,000'
+  report_date: '2015-02-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/02TransactionData-KUL-FEB2015.txt""
+",KUALA LUMPUR, - ,58578(M1D/14/161), - ,1746.2976325979,1746.2976325979, - ,unknown,7500000.0,7500000.0,1.0,LEE CHOU SARN @ LEE CHOU SUN,YEE MEAN FONG + 1,151020426,Kuala Lumpur,KUALA LUMPUR, - ,431
+491743,landoffice,"C-13-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"December 31, 2014 00:00",4294.8005311344, - ,1746.2976325979,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 12:03","June 24, 2017 12:03",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '426'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1D/14/161)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 31/12/2014
+  Luas Lot: '399.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '399'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: C-13-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: YEE MEAN FONG + 1
+  Nama Penerima Pindahmilik: LEE CHOU SARN @ LEE CHOU SUN
+  Balasan (RM): '7,500,000'
+  report_date: '2015-02-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/02TransactionData-KUL-FEB2015.txt""
+",KUALA LUMPUR, - ,58578(M1D/14/161), - ,1746.2976325979,1746.2976325979, - ,unknown,7500000.0,7500000.0,1.0,LEE CHOU SARN @ LEE CHOU SUN,YEE MEAN FONG + 1,151020426,Kuala Lumpur,KUALA LUMPUR, - ,431
+497183,landoffice,"B6-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"May 03, 2010 00:00",552.9421134947, - ,1170.9478252402,FREEHOLD,LANDED,TOWNHOUSE,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 12:48","June 24, 2017 12:48",3.14544,101.66494,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '535'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1C/1/126)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 03/05/2010
+  Luas Lot: '51.370'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: TOWN HOUSE
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '553'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: B6-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BANDAR RAYA DEVELOPMENTS BERHAD
+  Nama Penerima Pindahmilik: VICTORIA TRADE SDN BHD
+  Balasan (RM): '6,970,000'
+  report_date: '2015-04-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/04TransactionData-KUL-APR2015.txt""
+",KUALA LUMPUR, - ,58578(M1C/1/126), - ,12605.2977877707,1170.9478252402, - ,unknown,6970000.0,6970000.0,1.0,VICTORIA TRADE SDN BHD,BANDAR RAYA DEVELOPMENTS BERHAD,151040535,Kuala Lumpur,KUALA LUMPUR, - ,1555
+497262,landoffice,"F-3, JALAN MENERUNG",ONE MENERUNG, - , - ,"February 26, 2015 00:00",6339.9436411984, - ,1340.7059243816,FREEHOLD,LANDED,TERRACE,RESIDENTIAL,4, - ,4, - ,"June 24, 2017 12:49","June 24, 2017 12:49",3.14544,101.66494,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '614'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1G/B1/226)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 26/02/2015
+  Luas Lot: '589.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: RUMAH TERES MEWAH - TENGAH
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '1'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '589'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: F-3, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: WINFIELDS DEVELOPMENT SDN BHD
+  Nama Penerima Pindahmilik: TRISTAR PALMS SDN BHD
+  Balasan (RM): '8,500,000'
+  report_date: '2015-04-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/04TransactionData-KUL-APR2015.txt""
+",KUALA LUMPUR, - ,58578(M1G/B1/226), - ,1340.7059243816,1340.7059243816, - ,unknown,8500000.0,8500000.0,1.0,TRISTAR PALMS SDN BHD,WINFIELDS DEVELOPMENT SDN BHD,151040614,Kuala Lumpur,KUALA LUMPUR, - ,1555
+502025,landoffice,"A-21-02, JALAN MENERUNG",ONE MENERUNG, - , - ,"June 24, 2016 00:00",3175.353776152, - ,1565.179929659,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 13:26","June 24, 2017 13:26",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '295'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/22/94)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 24/06/2016
+  Luas Lot: '295.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN MUKIM
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '295'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-21-02, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: TAN CHENG SWEE @ TAN CHENG HOR +1
+  Nama Penerima Pindahmilik: TAWFIQ AYMAN +1
+  Balasan (RM): '4,970,000'
+  report_date: '2016-08-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/20TransactionData-KUL-AUG2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/22/94), - ,1565.179929659,1565.179929659, - ,unknown,4970000.0,4970000.0,1.0,TAWFIQ AYMAN +1,TAN CHENG SWEE @ TAN CHENG HOR +1,161080295,Kuala Lumpur,KUALA LUMPUR, - ,431
+502043,landoffice,"A-25-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"May 03, 2016 00:00",3218.4094205744, - ,1507.770552683,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 13:26","June 24, 2017 13:26",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '313'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/26/109)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 03/05/2016
+  Luas Lot: '299.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '305'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-25-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: ERIC OOI LIP AUN+1
+  Nama Penerima Pindahmilik: DELUXE SENSATION SDN BHD
+  Balasan (RM): '4,950,000'
+  report_date: '2016-08-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/20TransactionData-KUL-AUG2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/26/109), - ,1538.0268179542,1507.770552683, - ,unknown,4950000.0,4950000.0,1.0,DELUXE SENSATION SDN BHD,ERIC OOI LIP AUN+1,161080313,Kuala Lumpur,KUALA LUMPUR, - ,431
+502167,landoffice,"C-01-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"June 10, 2016 00:00",4294.8005311344, - ,1378.3527214095,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 13:28","June 24, 2017 13:28",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '437'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1D/2/137)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 10/06/2016
+  Luas Lot: '399.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '399'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: C-01-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENTS SDN BHD
+  Nama Penerima Pindahmilik: WANG JIH-WEI
+  Balasan (RM): '5,919,750'
+  report_date: '2016-08-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/20TransactionData-KUL-AUG2016.txt""
+",KUALA LUMPUR, - ,58578(M1D/2/137), - ,1378.3527214095,1378.3527214095, - ,unknown,5919750.0,5919750.0,1.0,WANG JIH-WEI,BRDB DEVELOPMENTS SDN BHD,161080437,Kuala Lumpur,KUALA LUMPUR, - ,431
+506503,landoffice,"D-19-02, JALAN MENERUNG",ONE MENERUNG, - , - ,"June 28, 2016 00:00",5091.3299529488, - ,1649.8636068823,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,23, - ,"June 24, 2017 14:01","June 24, 2017 14:01",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '319'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1E/20/214)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 28/06/2016
+  Luas Lot: '473.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN MUKIM
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '23'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '473'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: D-19-02, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: KIM KENNY + 1
+  Nama Penerima Pindahmilik: ZETI AKHTAR AZIZ + 1
+  Balasan (RM): '8,400,000'
+  report_date: '2016-07-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/19TransactionData-KUL-JUL2016.txt""
+",KUALA LUMPUR, - ,58578(M1E/20/214), - ,1649.8636068823,1649.8636068823, - ,unknown,8400000.0,8400000.0,1.0,ZETI AKHTAR AZIZ + 1,KIM KENNY + 1,161070319,Kuala Lumpur,KUALA LUMPUR, - ,431
+507410,landoffice,"A-12-1, JALAN MENERUNG",ONE MENERUNG, - , - ,"November 11, 2015 00:00",3218.4094205744, - ,1305.2907355865,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 14:10","June 24, 2017 14:10",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '421'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Sek: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/13/57)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 11/11/2015
+  Luas Lot: '299.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '299'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-12-1, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENT SDN BHD
+  Nama Penerima Pindahmilik: MARY ANNE CHOO HOOI CHENG
+  Balasan (RM): '4,200,960'
+  report_date: '2016-01-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/13TransactionData-KUL-JAN2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/13/57), - ,1305.2907355865,1305.2907355865, - ,unknown,4200960.0,4200960.0,1.0,MARY ANNE CHOO HOOI CHENG,BRDB DEVELOPMENT SDN BHD,161010421,Kuala Lumpur,KUALA LUMPUR, - ,431
+519337,landoffice,"A-17-3A, JALAN MENERUNG",ONE MENERUNG, - , - ,"December 29, 2015 00:00",3218.4094205744, - ,1249.0642036719,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,30, - ,"June 24, 2017 15:35","June 24, 2017 15:35",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '549'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/18/80)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 29/12/2015
+  Luas Lot: '299.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '30'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '299'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-17-3A, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: KEITH YIM WENG FOO
+  Nama Penerima Pindahmilik: NODA TAMOTSU + 1
+  Balasan (RM): '4,020,000'
+  report_date: '2016-03-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/15TransactionData-KUL-MAR2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/18/80), - ,1249.0642036719,1249.0642036719, - ,unknown,4020000.0,4020000.0,1.0,NODA TAMOTSU + 1,KEITH YIM WENG FOO,161030549,Kuala Lumpur,KUALA LUMPUR, - ,431
+519399,landoffice,"A-11-3, JALAN MENERUNG",ONE MENERUNG, - , - ,"January 06, 2016 00:00",3067.714665096, - ,1238.7071207227,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 15:35","June 24, 2017 15:35",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '580'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/12/55)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 06/01/2016
+  Luas Lot: '285.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '285'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-11-3, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENTS SDN BHD
+  Nama Penerima Pindahmilik: NINA SABRINA BINTI ISMAIL SABRI
+  Balasan (RM): '3,800,000'
+  report_date: '2016-03-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/15TransactionData-KUL-MAR2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/12/55), - ,1238.7071207227,1238.7071207227, - ,unknown,3800000.0,3800000.0,1.0,NINA SABRINA BINTI ISMAIL SABRI,BRDB DEVELOPMENTS SDN BHD,161030580,Kuala Lumpur,KUALA LUMPUR, - ,431
+520070,landoffice,"A-17-3A, JALAN MENERUNG",ONE MENERUNG, - , - ,"December 29, 2015 00:00",3218.4094205744, - ,1249.0642036719,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,4, - ,30, - ,"June 24, 2017 15:38","June 24, 2017 15:38",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '549'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/18/80)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 29/12/2015
+  Luas Lot: '299.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '30'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '4'
+  Luas Bgn Utama (mp): '299'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-17-3A, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: KEITH YIM WENG FOO
+  Nama Penerima Pindahmilik: NODA TAMOTSU + 1
+  Balasan (RM): '4,020,000'
+  report_date: '2016-03-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/15TransactionData-KUL-MAR2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/18/80), - ,1249.0642036719,1249.0642036719, - ,unknown,4020000.0,4020000.0,1.0,NODA TAMOTSU + 1,KEITH YIM WENG FOO,161030549,Kuala Lumpur,KUALA LUMPUR, - ,431
+520131,landoffice,"A-11-3, JALAN MENERUNG",ONE MENERUNG, - , - ,"January 06, 2016 00:00",3067.714665096, - ,1238.7071207227,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,4, - ,"June 24, 2017 15:38","June 24, 2017 15:38",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '580'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/12/55)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 06/01/2016
+  Luas Lot: '285.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '4'
+  Bil. Tkt. Bwh Tanah: '0'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '285'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-11-3, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: BRDB DEVELOPMENTS SDN BHD
+  Nama Penerima Pindahmilik: NINA SABRINA BINTI ISMAIL SABRI
+  Balasan (RM): '3,800,000'
+  report_date: '2016-03-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/15TransactionData-KUL-MAR2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/12/55), - ,1238.7071207227,1238.7071207227, - ,unknown,3800000.0,3800000.0,1.0,NINA SABRINA BINTI ISMAIL SABRI,BRDB DEVELOPMENTS SDN BHD,161030580,Kuala Lumpur,KUALA LUMPUR, - ,431
+522866,landoffice,"A-23-3A, JALAN MENERUNG",ONE MENERUNG, - , - ,"August 17, 2016 00:00",3218.4094205744, - ,1273.92120275,FREEHOLD,HIGHRISE,CONDO,RESIDENTIAL,5, - ,28, - ,"June 24, 2017 15:58","June 24, 2017 15:58",3.14545,101.66587,59000,nil,"--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+data:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  Bil.: '525'
+  Daerah: KUALA LUMPUR
+  Mukim/Bandar: KUALA LUMPUR
+  Seksyen/Blok: ''
+  Jen. Lot/Plot: NO. STRATA
+  No.Lot/Plot: 58578(M1B/24/104)
+  Status Lot: TUNGGAL
+  Tkh. Penilaian: 17/08/2016
+  Luas Lot: '299.000'
+  Unit Luas: mp
+  Jen.Hakmilik: GERAN
+  No. Hakmilik: '73452'
+  Jenis Hartanah: KEDIAMAN
+  Jenis Pegangan: KEKAL
+  Tempoh Pajakan: ''
+  Tkh. Luput Pajakan: ''
+  Klasifikasi Tanah: ''
+  Jenis Bangunan: KONDOMINIUM
+  Bil. Tkt. Atas Tanah: '28'
+  Bil. Tkt. Bwh Tanah: '2'
+  Bil. Bilik Tidur: '5'
+  Luas Bgn Utama (mp): '299'
+  Jenis Tanaman: ''
+  No. RSS/Pelan: 85B
+  Grid: ''
+  Alamat: A-23-3A, JALAN MENERUNG
+  Kawasan: ONE MENERUNG
+  Syer: 1/1
+  Nama Pemberi Pindahmilik: SIVABHAKINI A/P THEVENDIRARAJ
+  Nama Penerima Pindahmilik: PRASHANT RAJNIKANT PATEL
+  Balasan (RM): '4,100,000'
+  report_date: '2016-10-01'
+  region: Kuala Lumpur
+  kcl_index: '1'
+  filename: ""/home/ubuntu/propertypricetag_rails/shared/tmp/transactions/22TransactionData-KUL-OCT2016.txt""
+",KUALA LUMPUR, - ,58578(M1B/24/104), - ,1273.92120275,1273.92120275, - ,unknown,4100000.0,4100000.0,1.0,PRASHANT RAJNIKANT PATEL,SIVABHAKINI A/P THEVENDIRARAJ,161100525,Kuala Lumpur,KUALA LUMPUR, - ,431
