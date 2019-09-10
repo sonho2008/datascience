@@ -1,3 +1,3 @@
 #### datascience
 
-Tutorials, data explorations, experiments with various approaches to create predictive models.
+Notebooks focusing on exposition of ideas in machine learning.
