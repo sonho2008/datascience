@@ -13263,11 +13263,11 @@ a.anchor-link {
 <h3 id="Linear-regression:">Linear regression:<a class="anchor-link" href="#Linear-regression:">&#182;</a></h3><p>Given data set $\mathcal{D} = (\mathbf{x}^{(1)}, y^{(1)}), ..., (\mathbf{x}^{(m)}, y^{(m)})$,
 we want to learn vector of coefficients ${\Theta}$ so that:
 $$\large
-y = \mathbf{\Theta}^T\mathbf{x} + \epsilon
+y^{(i)} = \mathbf{\Theta}^T\mathbf{x}^{(i)} + \epsilon^{(i)}
 $$
 equivalently,
 $$\large
-y = \theta_0 + \theta_1 x_1 + ... + \theta_d x_d + \epsilon
+y^{(i)} = \theta_0 + \theta_1 x^{(i)}_1 + ... + \theta_d x^{(i)}_d + \epsilon^{(i)}
 $$</p>
 
 </div>
@@ -13279,7 +13279,7 @@ $$</p>
 <ul>
 <li>$\mathbf{x}^{(i)} = (x^{(i)}_0,..., x^{(i)}_d)$ are the input feature vectors.</li>
 <li>$\Theta = (\theta_0, ..., \theta_d)$ is the vector of coefficients, also called the model parameters.</li>
-<li>The error $\epsilon$ is $\mathcal{N}(0, \sigma^2)$ (normally distributed with mean $0$)</li>
+<li>The error $\epsilon^{(i)}$ are independent from each other and coming from the same distribution $\mathcal{N}(0, \sigma^2)$ (Gaussian with mean $0$).</li>
 </ul>
 
 </div>
@@ -13288,7 +13288,7 @@ $$</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Linear-regression:">Linear regression:<a class="anchor-link" href="#Linear-regression:">&#182;</a></h3>$$y = \mathbf{\Theta}^T\mathbf{x} + \epsilon = \theta_0 + \theta_1 x_1 + ... + \theta_d x_d + \epsilon
+<h3 id="Linear-regression:">Linear regression:<a class="anchor-link" href="#Linear-regression:">&#182;</a></h3>$$y^{(i)} = \mathbf{\Theta}^T\mathbf{x}^{(i)} + \epsilon^{(i)} = \theta_0 + \theta_1 x^{(i)}_1 + ... + \theta_d x^{(i)}_d + \epsilon^{(i)}
 $$<p>Goal: we want to minimize this
 $$\text{Loss} = \frac{1}{m} \sum_{i=1}^m {(y^{(i)} - \Theta^T\mathbf{x}^{(i)} )^2}
 $$
@@ -13460,14 +13460,22 @@ $$</p>
 <h1 id="Probability-theory">Probability theory<a class="anchor-link" href="#Probability-theory">&#182;</a></h1>
 </div>
 </div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+$$\DeclareMathOperator*{\argmax}{argmax} $$$$\DeclareMathOperator*{\argmin}{argmin} $$
+</div>
+</div>
 </div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Preview-of-how-we'll-use-probability:">Preview of how we'll use probability:<a class="anchor-link" href="#Preview-of-how-we'll-use-probability:">&#182;</a></h3><p>$\Theta = (\theta_0,...,\theta_d)$</p>
 <p>Imagine $\Theta$ lives in the space of all possible parameters. We will want to find the "most likely" $\Theta$ given the data $\mathcal{D}$. That is, find:
- $$\DeclareMathOperator*{\argmax}{argmax}
- \argmax_\Theta  p(\Theta|\mathcal{D}). $$</p>
+$$\DeclareMathOperator*{\argmax}{argmax} $$
+$$\DeclareMathOperator*{\argmin}{argmin} $$
+ $$\argmax_\Theta  p(\Theta|\mathcal{D}). $$</p>
 
 </div>
 </div>
@@ -13751,9 +13759,9 @@ $$<h3 id="Goal:">Goal:<a class="anchor-link" href="#Goal:">&#182;</a></h3><ul>
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Back-to-linear-regression:">Back to linear regression:<a class="anchor-link" href="#Back-to-linear-regression:">&#182;</a></h3><p>Recall the hypothesis for linear regression:
 $$
-y = \Theta^T \mathbf{x} + \epsilon
+y^{(i)} = \Theta^T \mathbf{x}^{(i)} + \epsilon^{(i)}
 $$
-where $\epsilon \sim \mathcal{N}(0, \sigma^2)$.</p>
+where $\epsilon^{(i)} \sim \mathcal{N}(0, \sigma^2)$.</p>
 
 </div>
 </div>
@@ -13761,7 +13769,7 @@ where $\epsilon \sim \mathcal{N}(0, \sigma^2)$.</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>That's equivalent to $y \sim \mathcal{N}(\Theta^T \mathbf{x}, \sigma^2)$.</p>
+<p>That's equivalent to $y^{(i)} \sim \mathcal{N}(\Theta^T \mathbf{x}^{(i)}, \sigma^2)$.</p>
 
 </div>
 </div>
@@ -13769,9 +13777,47 @@ where $\epsilon \sim \mathcal{N}(0, \sigma^2)$.</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>So
+<p>So,
 $$
-    p(y|\mathbf{x}, \Theta) = \frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{(y - \Theta^T\mathbf{x})^2}{2\sigma^2}\right).
+p(y^{(i)}|\Theta, \mathbf{x}^{(1)},..., \mathbf{x}^{(m)}) = p(y^{(i)}|\Theta, \mathbf{x}^{(i)}) $$</p>
+$$
+= \frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{(y^{(i)} - \Theta^T\mathbf{x}^{(i)})^2}{2\sigma^2}\right).
+$$
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The first equality is because $y^{(i)}$ only depends on $\mathbf{x}^{(i)}$.</p>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Expanding "data": $\mathcal{D} = \mathbf{x}^{(1)}, y^{(1)}, ... \mathbf{x}^{(m)}, y^{(m)} $, let $\mathbf{X} = \{\mathbf{x}^{(i)}\}_{i=1}^m$ and $\mathbf{Y} = \{y^{(i)}\}_{i=1}^m$.</p>
+<p>By Bayes' rule, with $\mathbf{X}$ always observed in all densities:
+$$
+p(\Theta | \mathbf{Y}, \mathbf{X}) \propto p(\mathbf{Y}|\Theta, \mathbf{X}) p(\Theta | \mathbf{X})
+$$</p>
+
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We assume a uniform prior belief about $\Theta$, i.e. $p(\Theta | \mathbf{X})$ can be treated as a constant. So finding the most likely $\Theta$ given data is equivalent to finding a Maximum Likelihood Estimate (MLE):
+$$
+\argmax_\Theta p(\Theta | \mathbf{Y}, \mathbf{X})  = \argmax_\Theta  p(\mathbf{Y}| \Theta, \mathbf{X}) 
+$$
+$$
+= \argmax_\Theta p(y^{(1)},...,y^{(m)}| \Theta, \mathbf{X}) 
+$$
+$$
+= \argmax_\Theta \prod_{i=1}^m p(y^{(i)}| \Theta, \mathbf{X}) 
 $$</p>
 
 </div>
@@ -13780,89 +13826,66 @@ $$</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Expanding "data" $\mathcal{D} = \mathbf{x}^{(1)}, y^{(1)}, ... \mathbf{x}^{(m)}, y^{(m)} $ we have</p>
-<p>Maximizing $p(\mathcal{D}|\Theta)$ $\iff$ maximizing $p(\mathbf{x}^{(1)}, y^{(1)}, ... \mathbf{x}^{(m)}, y^{(m)} | \Theta)$</p>
-
+$$
+= \argmax_\Theta \prod_{i=1}^m p(y^{(i)}| \Theta, \mathbf{X}) 
+$$
 </div>
 </div>
 </div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ maximizing  $ \prod_{i=1}^m p(\mathbf{x}^{(i)}, y^{(i)}|\Theta)$</p>
-
+$$
+= \argmax_\Theta \log\left( \prod_{i=1}^m p(y^{(i)}| \Theta, \mathbf{X}) \right)
+$$
 </div>
 </div>
 </div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ maximizing $ \log\left(\prod_{i=1}^m p(\mathbf{x}^{(i)}, y^{(i)}|\Theta)\right) =  \sum_{i=1}^{m}\log\left(p(\mathbf{x}^{(i)}, y^{(i)}|\Theta)\right)$</p>
-
+$$
+= \argmax_\Theta  \sum_{i=1}^m \log p(y^{(i)}| \Theta, \mathbf{X})
+$$
 </div>
 </div>
 </div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing $ -  \sum_{i=1}^{m}\log\left(p(\mathbf{x}^{(i)}, y^{(i)}|\Theta)\right)$</p>
-
+$$
+= \argmin_\Theta   \sum_{i=1}^m - \log p(y^{(i)}| \Theta, \mathbf{X})
+$$
 </div>
 </div>
-</div></div></section><section>
+</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing $ -  \sum_{i=1}^{m}\log\left(p(\mathbf{x}^{(i)}, y^{(i)}|\Theta)\right)$</p>
-
+$$
+= \argmin_\Theta   \sum_{i=1}^m - \log p(y^{(i)}| \Theta, \mathbf{X})
+$$
 </div>
 </div>
 </div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing $ - \sum_{i=1}^{m}\log\left[\left(p(y^{(i)}|\mathbf{x}^{(i)}, \Theta)\right) \left(  p(\mathbf{x}^{(i)}|\Theta)\right)\right]$ $= - \sum_{i=1}^{m}\log\left[\left(p(y^{(i)}|\mathbf{x}^{(i)}, \Theta)\right) \left(  p(\mathbf{x}^{(i)})\right)\right]$</p>
-
+$$= \argmin_\Theta  \sum_{i=1}^{m} - \log\left(\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{(y^{(i)} - \Theta^T\mathbf{x}^{(i)})^2}{2\sigma^2}\right)\right)$$
 </div>
 </div>
 </div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing  $- \sum_{i=1}^{m}\log\left(p(y^{(i)}|\mathbf{x}^{(i)}, \Theta)\right) - \sum_{i=1}^m \log\left(  p(\mathbf{x}^{(i)})\right)$</p>
-
-</div>
-</div>
-</div></div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing  $- \sum_{i=1}^{m}\log\left(p(y^{(i)}|\mathbf{x}^{(i)}, \Theta)\right)$</p>
-
-</div>
-</div>
-</div><div class="fragment">
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing  $$- \sum_{i=1}^{m}\log\left(\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{(y^{(i)} - \Theta^T\mathbf{x}^{(i)})^2}{2\sigma^2}\right)\right)$$</p>
-
+$$= \argmin_\Theta  \sum_{i=1}^m - \log\left(\frac{1}{\sqrt{2\pi\sigma^2}}\right) + \sum_{i=1}^m\frac{(y^{(i)} -\Theta^T\mathbf{x}^{(i)})^2}{2\sigma^2}$$
 </div>
 </div>
 </div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing  $$- \sum_{i=1}^m\log\left(\frac{1}{\sqrt{2\pi\sigma^2}}\right) + \sum_{i=1}^m\frac{(y^{(i)} -\Theta^T\mathbf{x}^{(i)})^2}{2\sigma^2}$$</p>
-
-</div>
-</div>
-</div></div><div class="fragment">
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>$\iff$ minimizing  $$ \sum_{i=1}^m(y^{(i)} -\Theta^T\mathbf{x}^{(i)})^2$$</p>
-
+$$ = \argmin_\Theta \sum_{i=1}^m(y^{(i)} -\Theta^T\mathbf{x}^{(i)})^2$$
 </div>
 </div>
 </div></div></section></section><section><section>
@@ -13870,7 +13893,7 @@ $$</p>
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Conclusion:">Conclusion:<a class="anchor-link" href="#Conclusion:">&#182;</a></h3>$$\text{minimizing } \frac{1}{m}\sum_{i=1}^m {(y^{(i)} - \Theta^T\mathbf{x}^{(i)} )^2}
-\iff \text{maximizing } p(\mathcal{D}|\Theta)
+\iff \text{maximizing } p(\Theta|\mathcal{D})
 $$
 </div>
 </div>
